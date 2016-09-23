@@ -1,25 +1,28 @@
-# Psi Description enhancer for PHPCR-ODM
+# Psi Description subject resolver for Symfony CMF Resources
 
-[![Build Status](https://travis-ci.org/psiphp/description-doctrine-phpcr-odm.svg?branch=master)](https://travis-ci.org/psiphp/description-doctrine-phpcr-odm)
-[![StyleCI](https://styleci.io/repos/67831603/shield)](https://styleci.io/repos/67831603)
+[![Build Status](https://travis-ci.org/psiphp/description-resolver-cmf-resource.svg?branch=master)](https://travis-ci.org/psiphp/description-resolver-cmf-resource)
+[![StyleCI](https://styleci.io/repos/69024769/shield)](https://styleci.io/repos/69024769)
+[![Latest Stable Version](https://poser.pugx.org/psiphp/description-resolver-cmf-resource/version.png)](https://packagist.org/packages/psiphp/description-resolver-cmf-resource)
+[![Total Downloads](https://poser.pugx.org/psiphp/content-type/d/total.png)](https://packagist.org/packages/psiphp/description-resolver-cmf-resource)
 
 This component is part of the Psi Content Management Framework
 
-Doctrine PHPCR-ODM Description Enhancer.
+Description subject resolver for Symfony CMF resources.
 
-Adds descriptors for the real class FQN, valid children types, etc.
+When Symfony CMF `CmfResource` resources are passed to the description
+factory, the payload will be described instead of the resource itself.
 
 ## Documentation
 
 You can find out more about this component and others
-[here](https://psiphp.readthedocs.io/en/latest/components/description-doctrine-phpcr-odm/docs/index.html).
+[here](https://psiphp.readthedocs.io/en/latest/components/description-resolver-cmf-resource/docs/index.html).
 
 ## Installation
 
 Require in `composer.json`:
 
 ```bash
-$ composer require 'psiphp/description-doctrine-phpcr-odm'
+$ composer require 'psiphp/description-resolver-cmf-resource'
 ```
 
 ## Contributing

@@ -28,7 +28,7 @@ class ResourcePayloadResolverTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * It should return the original subject if the subject does not implement CmfResource
+     * It should return the original subject if the subject does not implement CmfResource.
      */
     public function testReturnOriginalNotCmfResource()
     {

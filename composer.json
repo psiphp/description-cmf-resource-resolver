@@ -1,0 +1,37 @@
+{
+    "name": "psiphp/description-resolver-cmf-resource",
+    "description": "Describe Symfony CMF Resource payloads",
+    "homepage": "http://cmf.symfony.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Psi Community",
+            "homepage": "https://psiphp.github.io"
+        }
+    ],
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.0",
+        "psiphp/description": "~1.0",
+        "symfony-cmf/resource": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Psi\\Component\\Description\\SubjectResolver\\SymfonyCmfResource\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Psi\\Component\\Description\\SubjectResolver\\SymfonyCmfResource\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}

@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/psiphp/description-resolver-cmf-resource.svg?branch=master)](https://travis-ci.org/psiphp/description-resolver-cmf-resource)
 [![StyleCI](https://styleci.io/repos/69024769/shield)](https://styleci.io/repos/69024769)
 [![Scrutinizer Code
-Quality](https://scrutinizer-ci.com/g/psiphp/content-type/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/psiphp/description-resolver-cmf-resource/?branch=master)
+Quality](https://scrutinizer-ci.com/g/psiphp/description-resolver-cmf-resource/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/psiphp/description-resolver-cmf-resource/?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/psiphp/description-resolver-cmf-resource/version.png)](https://packagist.org/packages/psiphp/description-resolver-cmf-resource)
 [![Total Downloads](https://poser.pugx.org/psiphp/content-type/d/total.png)](https://packagist.org/packages/psiphp/description-resolver-cmf-resource)
 

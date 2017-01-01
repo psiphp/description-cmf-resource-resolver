@@ -18,8 +18,7 @@ factory, the payload will be described instead of the resource itself.
 
 ## Documentation
 
-You can find out more about this component and others
-[here](https://psiphp.readthedocs.io/en/latest/components/description-resolver-cmf-resource/docs/index.html).
+See the documentation in [doc/index.rst](https://github.com/psiphp/description-resolver-cmf-resource/blob/master/docs/index.rst).
 
 ## Installation
 

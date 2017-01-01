@@ -16,9 +16,10 @@ Description subject resolver for Symfony CMF resources.
 When Symfony CMF `CmfResource` resources are passed to the description
 factory, the payload will be described instead of the resource itself.
 
+
 ## Documentation
 
-See the documentation in [doc/index.rst](https://github.com/psiphp/description-resolver-cmf-resource/blob/master/docs/index.rst).
+Documentation is in progress, there may be documentation in [doc/index.rst](https://github.com/psiphp/description-resolver-cmf-resource/blob/master/docs/index.rst).
 
 ## Installation
 
